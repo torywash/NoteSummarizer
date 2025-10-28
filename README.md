@@ -8,5 +8,5 @@ A simple Python and HTML, CSS, and JS Website that takes in text and summarizes 
 4) Look for "_running on http://127.0.0.1:5000_" and press CTRL + Left Click
 5) Paste your notes and get studying!
 
-# Other Information
-I used things like Claude and Web Tutorials for learning how to use the API and import the Flask backend. The purpose of this project is to learn how to use this API and how to integrate such things into HTML and JS. 
+# _Other Information_
+_I used things like Claude and Web Tutorials for learning how to use the API and import the Flask backend. The purpose of this project is to learn how to use this API and how to integrate such things into HTML and JS._
